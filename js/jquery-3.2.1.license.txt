@@ -1,0 +1,8 @@
+jquery-3.2.1.slim.min.js
+
+is made availabe under
+
+MIT-License
+
+Please see:
+http://jquery.org/license/
