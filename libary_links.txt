@@ -21,6 +21,10 @@ jquery
 ------
 <script src="https://www.gear-genomics.com/libs/js/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
 
+lodash
+------
+<script src="https://www.gear-genomics.com/libs/js/lodash-4.17.15/lodash.min.js" crossorigin="anonymous"></script>
+
 plotly
 ------
 <script src="https://www.gear-genomics.com/libs/js/plotly-1.39.2.min.js" crossorigin="anonymous"></script>
